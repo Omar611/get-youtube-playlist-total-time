@@ -17,5 +17,5 @@ The script capture the time of each video in the playlist from the page and adds
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License
 
